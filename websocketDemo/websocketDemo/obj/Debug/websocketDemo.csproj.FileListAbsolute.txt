@@ -1,0 +1,7 @@
+C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\websocketDemo\websocketDemo\bin\Debug\websocketDemo.exe.config
+C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\websocketDemo\websocketDemo\bin\Debug\websocketDemo.exe
+C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\websocketDemo\websocketDemo\bin\Debug\websocketDemo.pdb
+C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\websocketDemo\websocketDemo\obj\Debug\websocketDemo.csprojResolveAssemblyReference.cache
+C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\websocketDemo\websocketDemo\obj\Debug\websocketDemo.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\websocketDemo\websocketDemo\obj\Debug\websocketDemo.exe
+C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\websocketDemo\websocketDemo\obj\Debug\websocketDemo.pdb

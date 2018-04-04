@@ -13,6 +13,8 @@ namespace DABHandin2SQL
         public string StreetName { get; set; }
         [Required]
         public string HouseNumber { get; set; }
+
+
         public virtual City City { get; set; }
         public virtual List<Person> Persons { get; set; } = new List<Person>();
     }

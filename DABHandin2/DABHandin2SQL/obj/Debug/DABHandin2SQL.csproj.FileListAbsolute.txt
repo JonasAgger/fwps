@@ -11,3 +11,16 @@ C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\DABHandin2\DABHan
 C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\DABHandin2\DABHandin2SQL\obj\Debug\DABHandin2SQL.pdb
 C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\DABHandin2\DABHandin2SQL\obj\Debug\DABHandin2SQL.Migrations.newProject.resources
 C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\DABHandin2\DABHandin2SQL\obj\Debug\DABHandin2SQL.csproj.GenerateResource.Cache
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\bin\Debug\DABHandin2SQL.exe.config
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\bin\Debug\DABHandin2SQL.exe
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\bin\Debug\DABHandin2SQL.pdb
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\bin\Debug\EntityFramework.dll
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\bin\Debug\EntityFramework.xml
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\obj\Debug\DABHandin2SQL.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\obj\Debug\DABHandin2SQL.Migrations.newProject.resources
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\obj\Debug\DABHandin2SQL.csproj.GenerateResource.Cache
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\obj\Debug\DABHandin2SQL.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\obj\Debug\DABHandin2SQL.exe
+C:\Users\jonas\Desktop\fwps\DABHandin2\DABHandin2SQL\obj\Debug\DABHandin2SQL.pdb

@@ -1,0 +1,2187 @@
+Hello
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Sockets.Client.WebSocketsTransport[0]
+      04/10/2018 10:08:33: Connection Id d983af7b-060e-4585-865c-a5a9650a2732: Starting transport. Transfer mode: Text.
+[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.SignalR.Client.HubConnection[22]
+      Using HubProtocol 'json'.
+Received: Hello from client
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:10:31.8139044+00:00",
+  "LastModifiedDate": "2018-04-10T10:10:31.8139044+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:10:31.8139081+00:00",
+  "LastModifiedDate": "2018-04-10T10:10:31.8139081+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:12:31.7642017+00:00",
+  "LastModifiedDate": "2018-04-10T10:12:31.7642017+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:12:31.7642053+00:00",
+  "LastModifiedDate": "2018-04-10T10:12:31.7642053+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:14:31.739289+00:00",
+  "LastModifiedDate": "2018-04-10T10:14:31.739289+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:14:31.7392925+00:00",
+  "LastModifiedDate": "2018-04-10T10:14:31.7392925+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:16:31.7336533+00:00",
+  "LastModifiedDate": "2018-04-10T10:16:31.7336533+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:16:31.7336571+00:00",
+  "LastModifiedDate": "2018-04-10T10:16:31.7336571+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:18:31.7666818+00:00",
+  "LastModifiedDate": "2018-04-10T10:18:31.7666818+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:18:31.7666855+00:00",
+  "LastModifiedDate": "2018-04-10T10:18:31.7666855+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:20:31.8194837+00:00",
+  "LastModifiedDate": "2018-04-10T10:20:31.8194837+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:20:31.819487+00:00",
+  "LastModifiedDate": "2018-04-10T10:20:31.819487+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:22:31.7367242+00:00",
+  "LastModifiedDate": "2018-04-10T10:22:31.7367242+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:22:31.7367278+00:00",
+  "LastModifiedDate": "2018-04-10T10:22:31.7367278+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:24:31.7563697+00:00",
+  "LastModifiedDate": "2018-04-10T10:24:31.7563697+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:24:31.7563735+00:00",
+  "LastModifiedDate": "2018-04-10T10:24:31.7563735+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:26:31.7487347+00:00",
+  "LastModifiedDate": "2018-04-10T10:26:31.7487347+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:26:31.7487382+00:00",
+  "LastModifiedDate": "2018-04-10T10:26:31.7487382+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:28:31.7772079+00:00",
+  "LastModifiedDate": "2018-04-10T10:28:31.7772079+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:28:31.7772227+00:00",
+  "LastModifiedDate": "2018-04-10T10:28:31.7772227+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:30:31.7684205+00:00",
+  "LastModifiedDate": "2018-04-10T10:30:31.7684205+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:30:31.768424+00:00",
+  "LastModifiedDate": "2018-04-10T10:30:31.768424+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:32:31.7365168+00:00",
+  "LastModifiedDate": "2018-04-10T10:32:31.7365168+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:32:31.7365204+00:00",
+  "LastModifiedDate": "2018-04-10T10:32:31.7365204+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:34:31.7508111+00:00",
+  "LastModifiedDate": "2018-04-10T10:34:31.7508111+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:34:31.7508146+00:00",
+  "LastModifiedDate": "2018-04-10T10:34:31.7508146+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:36:31.8066567+00:00",
+  "LastModifiedDate": "2018-04-10T10:36:31.8066567+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:36:31.8066607+00:00",
+  "LastModifiedDate": "2018-04-10T10:36:31.8066607+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:38:31.7922135+00:00",
+  "LastModifiedDate": "2018-04-10T10:38:31.7922135+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:38:31.7922171+00:00",
+  "LastModifiedDate": "2018-04-10T10:38:31.7922171+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:40:31.7568221+00:00",
+  "LastModifiedDate": "2018-04-10T10:40:31.7568221+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:40:31.7568259+00:00",
+  "LastModifiedDate": "2018-04-10T10:40:31.7568259+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:42:32.122527+00:00",
+  "LastModifiedDate": "2018-04-10T10:42:32.122527+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:42:32.1225422+00:00",
+  "LastModifiedDate": "2018-04-10T10:42:32.1225422+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:44:31.7988505+00:00",
+  "LastModifiedDate": "2018-04-10T10:44:31.7988505+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:44:31.7988544+00:00",
+  "LastModifiedDate": "2018-04-10T10:44:31.7988544+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:46:31.7966337+00:00",
+  "LastModifiedDate": "2018-04-10T10:46:31.7966337+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:46:31.7966372+00:00",
+  "LastModifiedDate": "2018-04-10T10:46:31.7966372+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:48:31.8174155+00:00",
+  "LastModifiedDate": "2018-04-10T10:48:31.8174155+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:48:31.8174191+00:00",
+  "LastModifiedDate": "2018-04-10T10:48:31.8174191+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:50:31.8210692+00:00",
+  "LastModifiedDate": "2018-04-10T10:50:31.8210692+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:50:31.8210727+00:00",
+  "LastModifiedDate": "2018-04-10T10:50:31.8210727+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:52:31.8017346+00:00",
+  "LastModifiedDate": "2018-04-10T10:52:31.8017346+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:52:31.8017385+00:00",
+  "LastModifiedDate": "2018-04-10T10:52:31.8017385+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:54:31.8184985+00:00",
+  "LastModifiedDate": "2018-04-10T10:54:31.8184985+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:54:31.8185142+00:00",
+  "LastModifiedDate": "2018-04-10T10:54:31.8185142+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:56:31.8042241+00:00",
+  "LastModifiedDate": "2018-04-10T10:56:31.8042241+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:56:31.8042277+00:00",
+  "LastModifiedDate": "2018-04-10T10:56:31.8042277+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:58:31.7987651+00:00",
+  "LastModifiedDate": "2018-04-10T10:58:31.7987651+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T10:58:31.7987692+00:00",
+  "LastModifiedDate": "2018-04-10T10:58:31.7987692+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:00:31.8233536+00:00",
+  "LastModifiedDate": "2018-04-10T11:00:31.8233536+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:00:31.8233573+00:00",
+  "LastModifiedDate": "2018-04-10T11:00:31.8233573+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:02:31.7999074+00:00",
+  "LastModifiedDate": "2018-04-10T11:02:31.7999074+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:02:31.7999108+00:00",
+  "LastModifiedDate": "2018-04-10T11:02:31.7999108+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:04:31.8050818+00:00",
+  "LastModifiedDate": "2018-04-10T11:04:31.8050818+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:04:31.8050855+00:00",
+  "LastModifiedDate": "2018-04-10T11:04:31.8050855+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:06:31.8743249+00:00",
+  "LastModifiedDate": "2018-04-10T11:06:31.8743249+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:06:31.8743283+00:00",
+  "LastModifiedDate": "2018-04-10T11:06:31.8743283+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:08:31.8354925+00:00",
+  "LastModifiedDate": "2018-04-10T11:08:31.8354925+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:08:31.8354959+00:00",
+  "LastModifiedDate": "2018-04-10T11:08:31.8354959+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:10:31.8375591+00:00",
+  "LastModifiedDate": "2018-04-10T11:10:31.8375591+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:10:31.8375745+00:00",
+  "LastModifiedDate": "2018-04-10T11:10:31.8375745+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:12:31.8844044+00:00",
+  "LastModifiedDate": "2018-04-10T11:12:31.8844044+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:12:31.8844082+00:00",
+  "LastModifiedDate": "2018-04-10T11:12:31.8844082+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:14:31.8496977+00:00",
+  "LastModifiedDate": "2018-04-10T11:14:31.8496977+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:14:31.8497016+00:00",
+  "LastModifiedDate": "2018-04-10T11:14:31.8497016+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:16:31.8390256+00:00",
+  "LastModifiedDate": "2018-04-10T11:16:31.8390256+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:16:31.8390292+00:00",
+  "LastModifiedDate": "2018-04-10T11:16:31.8390292+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:18:31.8611249+00:00",
+  "LastModifiedDate": "2018-04-10T11:18:31.8611249+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:18:31.8611286+00:00",
+  "LastModifiedDate": "2018-04-10T11:18:31.8611286+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:20:31.8415441+00:00",
+  "LastModifiedDate": "2018-04-10T11:20:31.8415441+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:20:31.8415479+00:00",
+  "LastModifiedDate": "2018-04-10T11:20:31.8415479+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:22:31.8434042+00:00",
+  "LastModifiedDate": "2018-04-10T11:22:31.8434042+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:22:31.8434189+00:00",
+  "LastModifiedDate": "2018-04-10T11:22:31.8434189+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:24:31.8663996+00:00",
+  "LastModifiedDate": "2018-04-10T11:24:31.8663996+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:24:31.8664176+00:00",
+  "LastModifiedDate": "2018-04-10T11:24:31.8664176+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:26:31.8345201+00:00",
+  "LastModifiedDate": "2018-04-10T11:26:31.8345201+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:26:31.8345363+00:00",
+  "LastModifiedDate": "2018-04-10T11:26:31.8345363+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:28:31.8423245+00:00",
+  "LastModifiedDate": "2018-04-10T11:28:31.8423245+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:28:31.8423283+00:00",
+  "LastModifiedDate": "2018-04-10T11:28:31.8423283+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:30:31.8568297+00:00",
+  "LastModifiedDate": "2018-04-10T11:30:31.8568297+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:30:31.8568334+00:00",
+  "LastModifiedDate": "2018-04-10T11:30:31.8568334+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:32:31.8418426+00:00",
+  "LastModifiedDate": "2018-04-10T11:32:31.8418426+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:32:31.8418463+00:00",
+  "LastModifiedDate": "2018-04-10T11:32:31.8418463+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:34:31.8785988+00:00",
+  "LastModifiedDate": "2018-04-10T11:34:31.8785988+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:34:31.8786023+00:00",
+  "LastModifiedDate": "2018-04-10T11:34:31.8786023+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:36:31.8933973+00:00",
+  "LastModifiedDate": "2018-04-10T11:36:31.8933973+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:36:31.8934012+00:00",
+  "LastModifiedDate": "2018-04-10T11:36:31.8934012+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:38:31.8508289+00:00",
+  "LastModifiedDate": "2018-04-10T11:38:31.8508289+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:38:31.8508324+00:00",
+  "LastModifiedDate": "2018-04-10T11:38:31.8508324+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:40:31.8571577+00:00",
+  "LastModifiedDate": "2018-04-10T11:40:31.8571577+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:40:31.8571616+00:00",
+  "LastModifiedDate": "2018-04-10T11:40:31.8571616+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:42:31.8725057+00:00",
+  "LastModifiedDate": "2018-04-10T11:42:31.8725057+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:42:31.8725093+00:00",
+  "LastModifiedDate": "2018-04-10T11:42:31.8725093+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:44:31.8554772+00:00",
+  "LastModifiedDate": "2018-04-10T11:44:31.8554772+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:44:31.855481+00:00",
+  "LastModifiedDate": "2018-04-10T11:44:31.855481+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:46:31.8511825+00:00",
+  "LastModifiedDate": "2018-04-10T11:46:31.8511825+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:46:31.8511862+00:00",
+  "LastModifiedDate": "2018-04-10T11:46:31.8511862+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:48:31.8746813+00:00",
+  "LastModifiedDate": "2018-04-10T11:48:31.8746813+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:48:31.8746848+00:00",
+  "LastModifiedDate": "2018-04-10T11:48:31.8746848+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:50:31.829311+00:00",
+  "LastModifiedDate": "2018-04-10T11:50:31.829311+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:50:31.8293151+00:00",
+  "LastModifiedDate": "2018-04-10T11:50:31.8293151+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:52:31.887633+00:00",
+  "LastModifiedDate": "2018-04-10T11:52:31.887633+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:52:31.8876365+00:00",
+  "LastModifiedDate": "2018-04-10T11:52:31.8876365+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:54:31.8837779+00:00",
+  "LastModifiedDate": "2018-04-10T11:54:31.8837779+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:54:31.8837816+00:00",
+  "LastModifiedDate": "2018-04-10T11:54:31.8837816+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:56:31.8528535+00:00",
+  "LastModifiedDate": "2018-04-10T11:56:31.8528535+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:56:31.8528691+00:00",
+  "LastModifiedDate": "2018-04-10T11:56:31.8528691+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:58:31.8559061+00:00",
+  "LastModifiedDate": "2018-04-10T11:58:31.8559061+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T11:58:31.8559097+00:00",
+  "LastModifiedDate": "2018-04-10T11:58:31.8559097+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:00:31.8823609+00:00",
+  "LastModifiedDate": "2018-04-10T12:00:31.8823609+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:00:31.8823646+00:00",
+  "LastModifiedDate": "2018-04-10T12:00:31.8823646+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:02:31.8616617+00:00",
+  "LastModifiedDate": "2018-04-10T12:02:31.8616617+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:02:31.8616653+00:00",
+  "LastModifiedDate": "2018-04-10T12:02:31.8616653+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:04:31.8719808+00:00",
+  "LastModifiedDate": "2018-04-10T12:04:31.8719808+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:04:31.8719845+00:00",
+  "LastModifiedDate": "2018-04-10T12:04:31.8719845+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:06:31.936585+00:00",
+  "LastModifiedDate": "2018-04-10T12:06:31.936585+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:06:31.9365885+00:00",
+  "LastModifiedDate": "2018-04-10T12:06:31.9365885+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:08:31.8930397+00:00",
+  "LastModifiedDate": "2018-04-10T12:08:31.8930397+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:08:31.8930553+00:00",
+  "LastModifiedDate": "2018-04-10T12:08:31.8930553+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:10:31.892431+00:00",
+  "LastModifiedDate": "2018-04-10T12:10:31.892431+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:10:31.8924348+00:00",
+  "LastModifiedDate": "2018-04-10T12:10:31.8924348+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:12:31.9172+00:00",
+  "LastModifiedDate": "2018-04-10T12:12:31.9172+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:12:31.9172036+00:00",
+  "LastModifiedDate": "2018-04-10T12:12:31.9172036+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:14:31.9206369+00:00",
+  "LastModifiedDate": "2018-04-10T12:14:31.9206369+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:14:31.9206525+00:00",
+  "LastModifiedDate": "2018-04-10T12:14:31.9206525+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:16:31.9012204+00:00",
+  "LastModifiedDate": "2018-04-10T12:16:31.9012204+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:16:31.9012243+00:00",
+  "LastModifiedDate": "2018-04-10T12:16:31.9012243+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:18:31.9198399+00:00",
+  "LastModifiedDate": "2018-04-10T12:18:31.9198399+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:18:31.9198437+00:00",
+  "LastModifiedDate": "2018-04-10T12:18:31.9198437+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:20:31.8976001+00:00",
+  "LastModifiedDate": "2018-04-10T12:20:31.8976001+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:20:31.8976037+00:00",
+  "LastModifiedDate": "2018-04-10T12:20:31.8976037+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:22:31.8961737+00:00",
+  "LastModifiedDate": "2018-04-10T12:22:31.8961737+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:22:31.8961773+00:00",
+  "LastModifiedDate": "2018-04-10T12:22:31.8961773+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:24:31.9222026+00:00",
+  "LastModifiedDate": "2018-04-10T12:24:31.9222026+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:24:31.9222062+00:00",
+  "LastModifiedDate": "2018-04-10T12:24:31.9222062+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:26:31.8970884+00:00",
+  "LastModifiedDate": "2018-04-10T12:26:31.8970884+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:26:31.897092+00:00",
+  "LastModifiedDate": "2018-04-10T12:26:31.897092+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:28:31.8963656+00:00",
+  "LastModifiedDate": "2018-04-10T12:28:31.8963656+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:28:31.8963692+00:00",
+  "LastModifiedDate": "2018-04-10T12:28:31.8963692+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:30:31.9242702+00:00",
+  "LastModifiedDate": "2018-04-10T12:30:31.9242702+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:30:31.9242737+00:00",
+  "LastModifiedDate": "2018-04-10T12:30:31.9242737+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:32:31.9157728+00:00",
+  "LastModifiedDate": "2018-04-10T12:32:31.9157728+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:32:31.9157766+00:00",
+  "LastModifiedDate": "2018-04-10T12:32:31.9157766+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:34:31.9136924+00:00",
+  "LastModifiedDate": "2018-04-10T12:34:31.9136924+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:34:31.9136959+00:00",
+  "LastModifiedDate": "2018-04-10T12:34:31.9136959+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:36:31.9548394+00:00",
+  "LastModifiedDate": "2018-04-10T12:36:31.9548394+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:36:31.954843+00:00",
+  "LastModifiedDate": "2018-04-10T12:36:31.954843+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:38:31.9174131+00:00",
+  "LastModifiedDate": "2018-04-10T12:38:31.9174131+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:38:31.917417+00:00",
+  "LastModifiedDate": "2018-04-10T12:38:31.917417+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:40:31.9139683+00:00",
+  "LastModifiedDate": "2018-04-10T12:40:31.9139683+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:40:31.9139722+00:00",
+  "LastModifiedDate": "2018-04-10T12:40:31.9139722+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:42:31.9319486+00:00",
+  "LastModifiedDate": "2018-04-10T12:42:31.9319486+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:42:31.9319525+00:00",
+  "LastModifiedDate": "2018-04-10T12:42:31.9319525+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:44:31.9221605+00:00",
+  "LastModifiedDate": "2018-04-10T12:44:31.9221605+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:44:31.9221642+00:00",
+  "LastModifiedDate": "2018-04-10T12:44:31.9221642+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:46:31.9470653+00:00",
+  "LastModifiedDate": "2018-04-10T12:46:31.9470653+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:46:31.947069+00:00",
+  "LastModifiedDate": "2018-04-10T12:46:31.947069+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:48:31.9447355+00:00",
+  "LastModifiedDate": "2018-04-10T12:48:31.9447355+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:48:31.944739+00:00",
+  "LastModifiedDate": "2018-04-10T12:48:31.944739+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:50:31.9136377+00:00",
+  "LastModifiedDate": "2018-04-10T12:50:31.9136377+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:50:31.9136418+00:00",
+  "LastModifiedDate": "2018-04-10T12:50:31.9136418+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:52:31.9130268+00:00",
+  "LastModifiedDate": "2018-04-10T12:52:31.9130268+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:52:31.9130303+00:00",
+  "LastModifiedDate": "2018-04-10T12:52:31.9130303+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:54:31.9335192+00:00",
+  "LastModifiedDate": "2018-04-10T12:54:31.9335192+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:54:31.933523+00:00",
+  "LastModifiedDate": "2018-04-10T12:54:31.933523+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:56:31.9195695+00:00",
+  "LastModifiedDate": "2018-04-10T12:56:31.9195695+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:56:31.9195731+00:00",
+  "LastModifiedDate": "2018-04-10T12:56:31.9195731+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:58:31.9290079+00:00",
+  "LastModifiedDate": "2018-04-10T12:58:31.9290079+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T12:58:31.9290117+00:00",
+  "LastModifiedDate": "2018-04-10T12:58:31.9290117+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:00:31.9857624+00:00",
+  "LastModifiedDate": "2018-04-10T13:00:31.9857624+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:00:31.9857659+00:00",
+  "LastModifiedDate": "2018-04-10T13:00:31.9857659+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:02:31.9952073+00:00",
+  "LastModifiedDate": "2018-04-10T13:02:31.9952073+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:02:31.9952109+00:00",
+  "LastModifiedDate": "2018-04-10T13:02:31.9952109+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:04:31.978505+00:00",
+  "LastModifiedDate": "2018-04-10T13:04:31.978505+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:04:31.9785087+00:00",
+  "LastModifiedDate": "2018-04-10T13:04:31.9785087+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:06:32.05602+00:00",
+  "LastModifiedDate": "2018-04-10T13:06:32.05602+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:06:32.056024+00:00",
+  "LastModifiedDate": "2018-04-10T13:06:32.056024+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:08:31.9965951+00:00",
+  "LastModifiedDate": "2018-04-10T13:08:31.9965951+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:08:31.9965987+00:00",
+  "LastModifiedDate": "2018-04-10T13:08:31.9965987+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:10:32.0003688+00:00",
+  "LastModifiedDate": "2018-04-10T13:10:32.0003688+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:10:32.0003724+00:00",
+  "LastModifiedDate": "2018-04-10T13:10:32.0003724+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:12:32.023974+00:00",
+  "LastModifiedDate": "2018-04-10T13:12:32.023974+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:12:32.0239777+00:00",
+  "LastModifiedDate": "2018-04-10T13:12:32.0239777+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:14:31.9935015+00:00",
+  "LastModifiedDate": "2018-04-10T13:14:31.9935015+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:14:31.9935049+00:00",
+  "LastModifiedDate": "2018-04-10T13:14:31.9935049+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:16:31.9989949+00:00",
+  "LastModifiedDate": "2018-04-10T13:16:31.9989949+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:16:31.9989985+00:00",
+  "LastModifiedDate": "2018-04-10T13:16:31.9989985+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:18:32.0235378+00:00",
+  "LastModifiedDate": "2018-04-10T13:18:32.0235378+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:18:32.0235413+00:00",
+  "LastModifiedDate": "2018-04-10T13:18:32.0235413+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:20:31.9941318+00:00",
+  "LastModifiedDate": "2018-04-10T13:20:31.9941318+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:20:31.9941471+00:00",
+  "LastModifiedDate": "2018-04-10T13:20:31.9941471+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:22:32.0322283+00:00",
+  "LastModifiedDate": "2018-04-10T13:22:32.0322283+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:22:32.032232+00:00",
+  "LastModifiedDate": "2018-04-10T13:22:32.032232+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:24:32.0181925+00:00",
+  "LastModifiedDate": "2018-04-10T13:24:32.0181925+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:24:32.0182074+00:00",
+  "LastModifiedDate": "2018-04-10T13:24:32.0182074+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:26:31.998984+00:00",
+  "LastModifiedDate": "2018-04-10T13:26:31.998984+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:26:31.9989877+00:00",
+  "LastModifiedDate": "2018-04-10T13:26:31.9989877+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:28:31.9951685+00:00",
+  "LastModifiedDate": "2018-04-10T13:28:31.9951685+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:28:31.9951721+00:00",
+  "LastModifiedDate": "2018-04-10T13:28:31.9951721+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:30:32.0197604+00:00",
+  "LastModifiedDate": "2018-04-10T13:30:32.0197604+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:30:32.0197639+00:00",
+  "LastModifiedDate": "2018-04-10T13:30:32.0197639+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:32:32.0179155+00:00",
+  "LastModifiedDate": "2018-04-10T13:32:32.0179155+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:32:32.0179307+00:00",
+  "LastModifiedDate": "2018-04-10T13:32:32.0179307+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:34:32.0142559+00:00",
+  "LastModifiedDate": "2018-04-10T13:34:32.0142559+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:34:32.0142596+00:00",
+  "LastModifiedDate": "2018-04-10T13:34:32.0142596+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:36:32.0564856+00:00",
+  "LastModifiedDate": "2018-04-10T13:36:32.0564856+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:36:32.0564891+00:00",
+  "LastModifiedDate": "2018-04-10T13:36:32.0564891+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:38:32.0224008+00:00",
+  "LastModifiedDate": "2018-04-10T13:38:32.0224008+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:38:32.0224046+00:00",
+  "LastModifiedDate": "2018-04-10T13:38:32.0224046+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:40:32.0160508+00:00",
+  "LastModifiedDate": "2018-04-10T13:40:32.0160508+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:40:32.0160545+00:00",
+  "LastModifiedDate": "2018-04-10T13:40:32.0160545+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:42:32.0354324+00:00",
+  "LastModifiedDate": "2018-04-10T13:42:32.0354324+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:42:32.0354361+00:00",
+  "LastModifiedDate": "2018-04-10T13:42:32.0354361+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:44:32.0139589+00:00",
+  "LastModifiedDate": "2018-04-10T13:44:32.0139589+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:44:32.0139625+00:00",
+  "LastModifiedDate": "2018-04-10T13:44:32.0139625+00:00"
+}
+Received: hello from debug
+Type: debugmessage
+{
+  "Command": "Hello",
+  "IsRun": false,
+  "WakeUpTime": "0001-01-01T00:00:00",
+  "SleepTime": "0001-01-01T00:00:00",
+  "IsOn": false,
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:46:32.0206518+00:00",
+  "LastModifiedDate": "2018-04-10T13:46:32.0206518+00:00"
+}
+Type: debugmessage
+Target: morningSun/Broker
+{
+  "Ip": "10.0.0.1",
+  "Id": 0,
+  "CreatedDate": "2018-04-10T13:46:32.0206559+00:00",
+  "LastModifiedDate": "2018-04-10T13:46:32.0206559+00:00"
+}
+q

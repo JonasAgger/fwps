@@ -7,6 +7,8 @@ import json
 PORT = 9000
 BUFSIZE = 1000
 
+
+command = "pass"
 deviceDict = {}
 
 def readTextTCP(client):
@@ -96,7 +98,7 @@ def main():
         if command == "on":
             msg = "on\r\n"
         elif command == "pass":
-            msg = "pass"
+            msg = "pass\r"
 
         print(msg)
 

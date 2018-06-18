@@ -1,0 +1,63 @@
+﻿@model WebApplication2.Models.IndexViewModel
+@{
+    ViewBag.Title = "Indstillinger";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div id="textForm">
+    <h4>Skift dine kontoindstillinger</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Fornavn:</dt>
+        <dd>
+            @(Model.Fornavn ?? "None")
+        </dd>
+
+        <dt>Efternavn:</dt>
+        <dd>
+            @(Model.Efternavn ?? "None")
+        </dd>
+
+        <dt>Dansk Biavler Forening kontrolnummer:</dt>
+        <dd>
+            <br/>
+            @(Model.DBF ?? "None") <text>[&nbsp;&nbsp;@Html.ActionLink("Skift nummer", "ChangeDBF")&nbsp;&nbsp;]</text>
+        </dd>
+
+        <dt>Adresse 1:</dt>
+        <dd>
+            @(Model.Address1 ?? "None")
+        </dd>
+
+        <dt>Adresse 2:</dt>
+        <dd>
+            @(Model.Address2 ?? "None")
+        </dd>
+
+        <dt>Postnummer:</dt>
+        <dd>
+            @(Model.Postnummer ?? "None")
+        </dd>
+        
+        <dt>By:</dt>
+        <dd>
+            @(Model.By ?? "None")  <text>[&nbsp;&nbsp;@Html.ActionLink("Skift adresse information", "ChangeAddress")&nbsp;&nbsp;]</text>
+        </dd>
+
+        <dt>Password:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+        {
+            @Html.ActionLink("Change your password", "ChangePassword")
+    }
+    else
+    {
+        @Html.ActionLink("Create", "SetPassword")
+}
+            ]
+        </dd>
+    </dl>
+</div>

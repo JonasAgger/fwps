@@ -7,12 +7,11 @@
         mc:Ignorable="d"
         Title="VarroWindow" Height="300" Width="400">
     <Grid>
-        <Grid>
             <Label Margin="0,8,0,0">Bistade</Label>
             <Label Margin="0,37,0,0">Dato</Label>
             <Label Margin="0,72,0,0">Antal</Label>
             <Label Margin="0,109,0,0">Kommentar</Label>
-            
+
             <TextBox Height="25" Margin="92,8,0,0" Name="tbxBistade" TabIndex="0"
                      VerticalAlignment="Top" HorizontalAlignment="Left"
                      MaxLength="18" 
@@ -27,7 +26,7 @@
                      Text="{Binding Path=Time, StringFormat=dd/MM/yyyy, ConverterCulture=en-GB}"
             />
             <TextBox Height="25" Margin="92,77,14,0" Name="tbxAntal"  
-                     TabIndex="1"
+                     TabIndex="2"
                      VerticalAlignment="Top" HorizontalAlignment="Left"
                      Width="150"
                      MaxLength="10"
@@ -56,5 +55,4 @@
                     Width="75" 
                     VerticalAlignment="Bottom">_Cancel</Button>
         </Grid>
-    </Grid>
 </Window>

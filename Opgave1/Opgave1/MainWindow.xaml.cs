@@ -32,7 +32,7 @@ namespace Opgave1
                 varrocounts.EditCommand.Execute(new Object());
         }
 
-        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        private void SearchButton_OnClick(object sender, RoutedEventArgs e)
         {
             string search = tbxSearchBox.Text;
 
@@ -48,8 +48,7 @@ namespace Opgave1
 
                     if (obj == null) return false;
 
-                    bool shouldBeIncluded = String.Equals(obj.Bistade, search,
-                        StringComparison.CurrentCultureIgnoreCase);
+                    bool shouldBeIncluded = obj.Bistade.StartsWith(search, StringComparison.CurrentCultureIgnoreCase);
 
                     DateTime searchDateTime;
 

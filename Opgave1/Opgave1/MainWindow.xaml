@@ -4,12 +4,13 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Opgave1"
-        WindowStartupLocation="CenterOwner"
+        WindowStartupLocation="CenterScreen"
         mc:Ignorable="d"
         Title="GUI - Opgave1" Height="450" Width="800">
     <Window.Resources>
         <!--Brushes-->
         <SolidColorBrush x:Key="TextBoxBackgroundBrush" Color="Black"/>
+        <ImageBrush x:Key="ImageBackgroundBrush" ImageSource="Images/varroamide.jpg" Stretch="UniformToFill"/>
         <!--Button Toolbar style-->
         <Style x:Key="BottonToolbarStyle" TargetType="{x:Type Button}" >
         <Style.Setters>
@@ -58,7 +59,7 @@
     <Window.DataContext>
         <local:VarroCounts x:Name="varrocounts"/>
     </Window.DataContext>
-    <DockPanel Name="DockPanelMain">
+    <DockPanel Name="DockPanelMain" Background="{StaticResource ImageBackgroundBrush}">
         <Menu DockPanel.Dock="Top" Name="mainMenu">
             <MenuItem Header="_File" >
                 <MenuItem Header="_New" Command="{Binding NewFileCommand}"/>
@@ -107,7 +108,7 @@
                      MaxLength="18"/>
             <Button ToolTip="Søg efter Bistade eller dato"
                     IsDefault="True"
-                    Click="ButtonBase_OnClick"
+                    Click="SearchButton_OnClick"
                     Style="{StaticResource ResourceKey=BottonToolbarStyle}">
                 <Image Source="Images/Search.png"></Image>
             </Button>
@@ -120,6 +121,7 @@
                    SelectedItem="{Binding Path=CurrentVarro}"
                    Name="dgridVarros" 
                    Margin="9"  
+                   Opacity="0.66"
                    CanUserAddRows="False" 
                    CanUserDeleteRows="False" 
                    IsReadOnly="True"

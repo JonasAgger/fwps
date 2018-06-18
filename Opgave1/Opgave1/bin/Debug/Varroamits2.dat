@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfVarroCount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <VarroCount>
-    <Bistade>Risskov</Bistade>
-    <Time>2018-06-15T11:58:58.7194682+02:00</Time>
-    <Count>2500</Count>
-    <Comment>Bierne havde det godt</Comment>
-  </VarroCount>
-  <VarroCount>
     <Bistade>Arhus</Bistade>
     <Time>2018-03-17T11:58:58.7194682+01:00</Time>
     <Count>3500</Count>
@@ -23,5 +17,11 @@
     <Time>2018-06-18T00:00:00+02:00</Time>
     <Count>2200</Count>
     <Comment>Ja vi har det godt her</Comment>
+  </VarroCount>
+  <VarroCount>
+    <Bistade>Risskov</Bistade>
+    <Time>2018-06-19T00:00:00+02:00</Time>
+    <Count>2522</Count>
+    <Comment>Dette er en kommentar</Comment>
   </VarroCount>
 </ArrayOfVarroCount>

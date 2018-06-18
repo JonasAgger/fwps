@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Varroamider optællinger";
+}
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even){background-color: #f2f2f2}
+    tr:nth-child(odd) {
+        background-color: #aaa000
+    }
+</style>
+
+<div class="row">
+    <div class="col-md-12">
+        <p>&nbsp;</p>
+    </div>
+</div>
+<div class="row">
+
+    <div class="col-md-10 col-md-offset-1">
+        <div>
+        <b style="font-size: x-large">
+            Her er det muligt at se alle indtastede Varroatællinger, som du har indtastet. 
+        </b>
+        </div>
+
+
+        <div id="varroCountsTable">
+            <table border='1' id='mytable'>
+                <tbody>
+                <tr><td><b>Bistade</b></td><td><b>Antal Varroamider</b></td><td><b>Dato</b></td><td><b>Varighed</b></td><td><b>Kommentar</b></td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+@section scripts {
+    <script src="/Scripts/LoadVarro.js">
+    </script>
+}

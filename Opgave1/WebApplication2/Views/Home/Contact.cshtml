@@ -1,0 +1,32 @@
+﻿@model WebApplication2.Models.VarroCountDTO
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    <div class="col-md-12">
+        <p>&nbsp;</p>
+    </div>
+</div>
+<div class="row" id="jobForm">
+
+    <div>
+
+        
+        @using (Html.BeginForm())
+    {
+        <p>Indtast Varroatælling. Husk at skrive dato korrekt ind. Krævede feldter er markeret med en stjerne *.</p>
+        <p>@Html.ValidationSummary(true)</p>
+        <p>@Html.LabelFor(x => x.Bistade) @Html.TextBoxFor(x => x.Bistade, new { @maxlength = "18" }) * @Html.ValidationMessageFor(model => model.Bistade)</p>
+        <p>@Html.LabelFor(x => x.Date) @Html.EditorFor(x => x.Date) * @Html.ValidationMessageFor(model => model.Date, "dato/måned/år -- dd/mm/åååå")</p>
+        <p>@Html.LabelFor(x => x.MiteCount) @Html.EditorFor(x => x.MiteCount) * @Html.ValidationMessageFor(model => model.MiteCount)</p>
+        <p>@Html.LabelFor(x => x.ObsTime) @Html.EditorFor(x => x.ObsTime) * @Html.ValidationMessageFor(model => model.ObsTime, "ObservationsTid i dage")</p>
+        <p>@Html.LabelFor(x => x.Comment) @Html.EditorFor(x => x.Comment) @Html.ValidationMessageFor(model => model.Comment)</p>
+        <input id="submitJobApplication" type="submit" value="Apply Now" />
+}
+    </div>
+</div>
+@section scripts {
+
+    @Scripts.Render("~/bundles/jqueryval")
+
+}

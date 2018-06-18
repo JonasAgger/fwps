@@ -1,0 +1,93 @@
+﻿
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.navbar {
+    background-color: #330000;
+    color: #330000;
+}
+
+.jumbotron {
+    background: rgba(250, 235, 215, 0.75);
+}
+
+#infoForm {
+    padding: 10px;
+    background: rgba(250, 235, 215, 0.75);
+    color: #000000;
+    font-size: x-large;
+}
+
+#textForm {
+    padding: 10px;
+    background-color: rgba(250, 235, 215, 0.75);
+    font-size: large;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #0fafaa;
+    background-image: url(/Images/beekeeper.jpg);
+    background-size: cover;
+    color: #330000;
+    /*font-family: Verdana,Arial, sans-serif;*/
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+#jobForm form {
+    padding: 10px;
+    background-color: rgba(250, 235, 215, 0.75);
+}
+
+#jobForm label {
+    float: left;
+    width: 100px;
+    display: block;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+
+#jobForm input, textarea {
+    margin-top: 10px;
+}
+
+#submitJobApplication {
+    margin-left: 110px;
+}
+
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+header {
+    background-color: #ccaa66;
+    color: #000000;
+    text-align: center;
+    margin: 0;
+    height: 100px;
+}
+
+#jombotron

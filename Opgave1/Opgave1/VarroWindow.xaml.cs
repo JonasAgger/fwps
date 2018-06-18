@@ -26,7 +26,12 @@ namespace Opgave1
 
         private void btnOk_Click(object sender, RoutedEventArgs e)
         {
-            DialogResult = true;
+            if (tbxBistade.Text == string.Empty)
+                MessageBox.Show("Bistade skal have en værdi");
+            else
+            {
+                DialogResult = true;
+            }
         }
     }
 }

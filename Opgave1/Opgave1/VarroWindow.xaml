@@ -1,0 +1,60 @@
+﻿<Window x:Class="Opgave1.VarroWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Opgave1"
+        mc:Ignorable="d"
+        Title="VarroWindow" Height="300" Width="400">
+    <Grid>
+        <Grid>
+            <Label Margin="0,8,0,0">Bistade</Label>
+            <Label Margin="0,37,0,0">Dato</Label>
+            <Label Margin="0,72,0,0">Antal</Label>
+            <Label Margin="0,109,0,0">Kommentar</Label>
+            
+            <TextBox Height="25" Margin="92,8,0,0" Name="tbxBistade" TabIndex="0"
+                     VerticalAlignment="Top" HorizontalAlignment="Left"
+                     MaxLength="18" 
+                     Text="{Binding Path=Bistade}"
+                     Width="150"
+            />
+            <TextBox Height="25" Margin="92,39,14,0" Name="tbxDate"  
+                     TabIndex="1"
+                     VerticalAlignment="Top" HorizontalAlignment="Left"
+                     Width="150"
+                     MaxLength="10"
+                     Text="{Binding Path=Time, StringFormat=dd/MM/yyyy, ConverterCulture=en-GB}"
+            />
+            <TextBox Height="25" Margin="92,77,14,0" Name="tbxAntal"  
+                     TabIndex="1"
+                     VerticalAlignment="Top" HorizontalAlignment="Left"
+                     Width="150"
+                     MaxLength="10"
+                     Text="{Binding Path=Count}"
+            />
+            <TextBox Margin="92,109,14,0" Name="tbxComment" 
+                     TabIndex="3"
+                     Height="111" 
+                     VerticalAlignment="Top" 
+                     AcceptsReturn="True"
+                     Text="{Binding Path=Comment}" 
+                     Width="250"
+                     HorizontalAlignment="Left"
+            />
+            <Button IsDefault="True" 
+                    TabIndex="4"
+                    Margin="92,0,111,12" 
+                    Name="btnOk" 
+                    VerticalAlignment="Bottom" 
+                    Click="btnOk_Click">_Ok</Button>
+            <Button IsCancel="True" 
+                    TabIndex="5"
+                    Margin="0,0,14,12" 
+                    Name="btnCancel" 
+                    HorizontalAlignment="Right" 
+                    Width="75" 
+                    VerticalAlignment="Bottom">_Cancel</Button>
+        </Grid>
+    </Grid>
+</Window>

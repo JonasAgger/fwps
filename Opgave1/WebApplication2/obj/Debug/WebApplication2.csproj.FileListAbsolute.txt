@@ -126,4 +126,4 @@ C:\Users\jonas\Desktop\fwps\Opgave1\WebApplication2\obj\Debug\WebApplication2.pd
 C:\Users\jonas\Desktop\fwps\Opgave1\WebApplication2\obj\Debug\WebApplication2.Migrations.updatedVarro.resources
 C:\Users\jonas\Desktop\fwps\Opgave1\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.cache
 C:\Users\jonas\Desktop\fwps\Opgave1\WebApplication2\obj\Debug\WebApplication2.Migrations.updatedVarro1.resources
-C:\Users\jonas\Desktop\fwps\Opgave1\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\jonas\Desktop\fwps\Opgave1\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache

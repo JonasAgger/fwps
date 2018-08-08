@@ -19,7 +19,6 @@ C:\Users\jonas\OneDrive\Dokumenter\Visual Studio 2017\Projects\Opgave1\Opgave1\o
 C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\bin\Debug\Opgave1.exe.config
 C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\bin\Debug\Opgave1.exe
 C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\bin\Debug\Opgave1.pdb
-C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\obj\Debug\Opgave1.csprojResolveAssemblyReference.cache
 C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\obj\Debug\MainWindow.g.cs
 C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\obj\Debug\VarroWindow.g.cs
 C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\obj\Debug\App.g.cs
@@ -34,3 +33,4 @@ C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\obj\Debug\Opgave1.csproj.GenerateRes
 C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\obj\Debug\Opgave1.csproj.CoreCompileInputs.cache
 C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\obj\Debug\Opgave1.exe
 C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\obj\Debug\Opgave1.pdb
+C:\Users\jonas\Desktop\fwps\Opgave1\Opgave1\obj\Debug\Opgave1.csprojAssemblyReference.cache

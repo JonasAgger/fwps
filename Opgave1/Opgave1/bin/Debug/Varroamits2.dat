@@ -24,4 +24,10 @@
     <Count>2522</Count>
     <Comment>Dette er en kommentar</Comment>
   </VarroCount>
+  <VarroCount>
+    <Bistade>Møllehatten</Bistade>
+    <Time>2018-06-19T00:00:00+02:00</Time>
+    <Count>0</Count>
+    <Comment>Vi er for nice</Comment>
+  </VarroCount>
 </ArrayOfVarroCount>
